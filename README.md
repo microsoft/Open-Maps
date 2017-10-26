@@ -4,7 +4,7 @@ This repo is intended for the Open Maps team at Microsoft making organized edits
 *The includes information about data Microsoft has shared under ODbL
   * [Bing Imagery License](https://github.com/Microsoft/Open-Maps/wiki/Bing-Maps-Imagery-License)
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
-Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
+  * Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
 
 For more information contact the project lead [jubal harpster](http://www.openstreetmap.org/user/jharpster)
 
