@@ -1,3 +1,11 @@
+# Intro
+This repo is intended for the Open Maps team at Microsoft making organized edits to OpenStreetMap. 
+
+The includes information about data Microsoft has shared under ODbL
+Projects being worked on the MS Open Data team
+
+For more information contact the project lead http://www.openstreetmap.org/user/jharpster
+
 
 # Contributing
 
