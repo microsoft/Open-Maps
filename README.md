@@ -9,6 +9,9 @@ Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Op
 For more information contact the project lead [jubal harpster](http://www.openstreetmap.org/user/jharpster)
 
 
+
+
+# Microsoft Legal Stuff Below
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
