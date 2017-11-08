@@ -7,7 +7,8 @@ This repo is intended for the Open Maps team at Microsoft making organized edits
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
   * Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
-    * [Invalid Turn Restrictions] (https://github.com/Microsoft/Open-Maps/issues/2)
+    * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
+    
     
 For more information contact the project lead [jubal harpster](http://www.openstreetmap.org/user/jharpster)
 
