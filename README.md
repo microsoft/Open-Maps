@@ -10,7 +10,7 @@ This repo is for the Open Maps team at Microsoft making organized edits to OpenS
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
     
-    
+Microsoft is not making bulk edits or algorithmic imports in to OSM anywhere. We are a small team working to improve the map. 
 
 For more information reach out the project leads [Jubal Harpster](http://www.openstreetmap.org/user/jharpster) and [Alexandra Kazakova](http://www.openstreetmap.org/user/alexkaz)
 
