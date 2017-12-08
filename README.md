@@ -1,5 +1,6 @@
 
 
+
 # Intro
 This repo is for the Open Maps team at Microsoft making organized edits to OpenStreetMap. 
 
@@ -8,6 +9,7 @@ This repo is for the Open Maps team at Microsoft making organized edits to OpenS
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
   * Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
+    * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4)
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
     
 Microsoft is not making bulk edits or algorithmic imports in to OSM anywhere. We are a small team working to improve the map. 
