@@ -11,8 +11,8 @@ This repo is for the Open Maps team at Microsoft making organized edits to OpenS
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
     
     
-TODO: Update common tagging info used by the Open Maps team at Microsoft for use in OSM. 
-For more information contact the project lead [jubal harpster](http://www.openstreetmap.org/user/jharpster)
+
+For more information reach out the project leads [Jubal Harpster](http://www.openstreetmap.org/user/jharpster) and [Alexandra Kazakova](http://www.openstreetmap.org/user/alexkaz)
 
 
 
