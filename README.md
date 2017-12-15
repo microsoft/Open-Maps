@@ -12,6 +12,7 @@ This includes information about data Microsoft has shared under ODbL
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
     * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4)
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
+    * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5)
     
 Microsoft is not making bulk edits or algorithmic imports in to OSM anywhere. We are a small team working to improve the map. 
 
