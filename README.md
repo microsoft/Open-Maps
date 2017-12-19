@@ -11,6 +11,7 @@ This includes information about data Microsoft has shared under ODbL
 * Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
     * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4)
+    * [Missing Street Names in New South Wales](https://github.com/Microsoft/Open-Maps/issues/6)
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
     * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5)
     
@@ -22,6 +23,13 @@ For more information reach out the project leads [Jubal Harpster](http://www.ope
 
 
 # Microsoft Legal Stuff Below
+
+
+
+
+
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
