@@ -8,7 +8,7 @@ This includes information about data Microsoft has shared under ODbL
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
   
   
-* Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Team)
+* Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
     * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4)
     * [Missing Street Names in New South Wales](https://github.com/Microsoft/Open-Maps/issues/6)
