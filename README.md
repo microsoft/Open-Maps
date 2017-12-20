@@ -18,7 +18,7 @@ This includes information about data Microsoft has shared under ODbL
     
 Microsoft is not making bulk edits or algorithmic imports in to OSM anywhere. We are a small team working to improve the map. 
 
-For more information reach out the project leads [Jubal Harpster](http://www.openstreetmap.org/user/jharpster) and [Alexandra Kazakova](http://www.openstreetmap.org/user/alexkaz)
+For more information reach out to the project leads [Jubal Harpster](http://www.openstreetmap.org/user/jharpster) and [Alexandra Kazakova](http://www.openstreetmap.org/user/alexkaz) or email the entire [Open Maps Team](openmaps@microsoft.com) 
 
 
 
