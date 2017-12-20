@@ -16,20 +16,19 @@ Below is information about data Microsoft has shared under ODbL
     * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5)
     * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7)
     
-Microsoft is not making bulk edits or algorithmic imports in to OSM anywhere. We are a small team working to improve the map. 
+Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
 For more information reach out to the project leads [Jubal Harpster](http://www.openstreetmap.org/user/jharpster) and [Alexandra Kazakova](http://www.openstreetmap.org/user/alexkaz) or email the entire Open Maps Team using openmaps(at)microsoft.com
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Microsoft Legal Stuff Below
-
-
-
-
-
-
 
 # Contributing
 
