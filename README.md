@@ -3,12 +3,12 @@
 # Intro
 This repo is for the Open Maps team at Microsoft making organized edits to OpenStreetMap. 
 
-This includes information about data Microsoft has shared under ODbL
+Below is information about data Microsoft has shared under ODbL
   * [Bing Imagery License](https://github.com/Microsoft/Open-Maps/wiki/Bing-Maps-Imagery-License)
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
   
   
-* Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
+## Projects being worked on the [MS Open Data team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
     * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
     * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4)
     * [Missing Street Names in New South Wales](https://github.com/Microsoft/Open-Maps/issues/6)
