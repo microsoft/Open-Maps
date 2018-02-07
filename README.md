@@ -16,6 +16,7 @@ Below is information about data Microsoft has shared under ODbL
     * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5)
     * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7)
     * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9)
+    * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
