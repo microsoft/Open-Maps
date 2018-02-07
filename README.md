@@ -1,4 +1,5 @@
 
+
 # Intro
 This repo is for the Open Maps team at Microsoft making organized edits to OpenStreetMap. 
 
@@ -17,6 +18,7 @@ Below is information about data Microsoft has shared under ODbL
     * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7)
     * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9)
     * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10)
+    * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
