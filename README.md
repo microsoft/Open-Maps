@@ -14,14 +14,15 @@ Below is information about data Microsoft has shared under ODbL
     * [Missing Street Names in New South Wales](https://github.com/Microsoft/Open-Maps/issues/6)
     * [Missing Street Names in Australian Capital Territory](https://github.com/Microsoft/Open-Maps/issues/13)
     * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
-    * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5)
-    * [Fixing Incorrect Water Feature Relations in Australia](https://github.com/Microsoft/Open-Maps/issues/14)
-    * [Create New Missing Dry Lake Features in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
-    * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7)
-    * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9)
-    * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10)
+    * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5) - Done
+    * [Fixing Incorrect Water Feature Relations in Australia](https://github.com/Microsoft/Open-Maps/issues/14) - Done
+    * [Create New Missing Dry Lake Features in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
+    * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7) - Done
+    * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9) - Done
+    * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10) - Done
     * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
     * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15)
+    * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
