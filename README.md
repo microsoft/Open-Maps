@@ -1,4 +1,5 @@
 
+
 # Intro
 This repo is for the Open Maps team at Microsoft making organized edits to OpenStreetMap. 
 
@@ -23,6 +24,7 @@ Below is information about data Microsoft has shared under ODbL
     * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
     * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15)
     * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16)
+    * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
