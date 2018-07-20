@@ -22,7 +22,7 @@ Below is information about data Microsoft has shared under ODbL
     * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7) - Done
     * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9) - Done
     * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10) - Done
-    * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
+    * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
     * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15)
     * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16)
     * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17)
