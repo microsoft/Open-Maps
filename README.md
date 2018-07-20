@@ -6,6 +6,7 @@ This repo is for the Open Maps team at Microsoft making organized edits to OpenS
 Below is information about data Microsoft has shared under ODbL
   * [Bing Imagery License](https://github.com/Microsoft/Open-Maps/wiki/Bing-Maps-Imagery-License)
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
+  * [Microsoft Computer Generated Building Footprints for the US](https://github.com/Microsoft/USBuildingFootprints)
   
   
 * ## Projects being worked on the [MS Open Data Team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
@@ -21,10 +22,12 @@ Below is information about data Microsoft has shared under ODbL
     * [Fixing mini-roundabouts](https://github.com/Microsoft/Open-Maps/issues/7) - Done
     * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9) - Done
     * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10) - Done
-    * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11)
+    * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
     * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15)
     * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16)
     * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17)
+    * [Missing Streets & Street Names in Victoria](https://github.com/Microsoft/Open-Maps/issues/18)
+    * [Fix Roundabouts in Australia](https://github.com/Microsoft/Open-Maps/issues/19)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
