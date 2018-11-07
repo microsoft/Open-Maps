@@ -11,11 +11,11 @@ Below is information about data Microsoft has shared under ODbL
   
 * ## Projects being worked on the [MS Open Data Team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
 
-    * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1)
-    * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4) 
+    * [Missing Street Names in Western Austalia](https://github.com/Microsoft/Open-Maps/issues/1) - Done
+    * [Missing Street Names in South Austalia](https://github.com/Microsoft/Open-Maps/issues/4) - Done
     * [Missing Street Names in New South Wales](https://github.com/Microsoft/Open-Maps/issues/6)
-    * [Missing Street Names in Australian Capital Territory](https://github.com/Microsoft/Open-Maps/issues/13)
-    * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2)
+    * [Missing Street Names in Australian Capital Territory](https://github.com/Microsoft/Open-Maps/issues/13) - Done
+    * [Invalid Turn Restrictions](https://github.com/Microsoft/Open-Maps/issues/2) - Done
     * [Mistagged Water Features in Australia](https://github.com/Microsoft/Open-Maps/issues/5) - Done
     * [Fixing Incorrect Water Feature Relations in Australia](https://github.com/Microsoft/Open-Maps/issues/14) - Done
     * [Create New Missing Dry Lake Features in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
@@ -23,8 +23,8 @@ Below is information about data Microsoft has shared under ODbL
     * [Improve Australian Coastines](https://github.com/Microsoft/Open-Maps/issues/9) - Done
     * [Improve Australian Piers](https://github.com/Microsoft/Open-Maps/issues/10) - Done
     * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
-    * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15)
-    * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16)
+    * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15) - Done
+    * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16) - Done
     * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17)
     * [Missing Streets & Street Names in Victoria](https://github.com/Microsoft/Open-Maps/issues/18)
     * [Fix Roundabouts in Australia](https://github.com/Microsoft/Open-Maps/issues/19) - Done
