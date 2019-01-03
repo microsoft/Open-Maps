@@ -27,10 +27,11 @@ Below is information about data Microsoft has shared under ODbL
     * [Add Missing Dry Lakes in Australia](https://github.com/Microsoft/Open-Maps/issues/11) - Done
     * [TIGER road clean up in Washington State](https://github.com/Microsoft/Open-Maps/issues/15) - Done
     * [Road Network for Fastest Growing US Cities](https://github.com/Microsoft/Open-Maps/issues/16) - Done
-    * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17)
+    * [Surface Tags on Nodes](https://github.com/Microsoft/Open-Maps/issues/17) - Done
     * [Missing Streets & Street Names in Victoria](https://github.com/Microsoft/Open-Maps/issues/18)
     * [Fix Roundabouts in Australia](https://github.com/Microsoft/Open-Maps/issues/19) - Done
-    * [Missing One-Ways in Seattle](https://github.com/Microsoft/Open-Maps/issues/20)
+    * [Missing One-Ways in Seattle](https://github.com/Microsoft/Open-Maps/issues/20) - Done
+    * [Missing Turn Restrictions in US Cities](https://github.com/Microsoft/Open-Maps/issues/29)
     
 Microsoft is not making bulk edits, automated imports or algorithmic 'robot' edits in to OSM anywhere. We are a small team working to improve the map. 
 
