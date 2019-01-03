@@ -7,6 +7,7 @@ Below is information about data Microsoft has shared under ODbL
   * [Bing Imagery License](https://github.com/Microsoft/Open-Maps/wiki/Bing-Maps-Imagery-License)
   * [Microsoft Building Footprints](https://github.com/Microsoft/Open-Maps/wiki/Microsoft-Building-Footprint-Release)
   * [Microsoft Computer Generated Building Footprints for the US](https://github.com/Microsoft/USBuildingFootprints)
+  * [Microsoft JOSM Streetside Plugin](https://github.com/Microsoft/MicrosoftStreetsidePlugin)
   
   
 * ## Projects being worked on the [MS Open Data Team](https://github.com/Microsoft/Open-Maps/wiki/Open-Maps-Team-at-Microsoft)
